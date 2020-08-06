@@ -5,7 +5,7 @@
 
 public Plugin myinfo = 
 {
-	name = "invisfix",
+	name = "inivisiwepfix",
 	author = "Frenzoid",
 	description = "Fixes invisible weapons on red team",
 	version = "1.0",
