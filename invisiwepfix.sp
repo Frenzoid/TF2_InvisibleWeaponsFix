@@ -7,7 +7,7 @@ public Plugin myinfo =
 {
 	name = "inivisiwepfix",
 	author = "Frenzoid",
-	description = "Fixes invisible weapons on red team",
+	description = "Fixes invisible weapons on both teams at round start.",
 	version = "1.0",
 	url = ""
 };
